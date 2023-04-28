@@ -1,1 +1,2 @@
-# pandas_challenge
+# Pandas_challenge
+Here is my submission for the Module 4 Pandas assignment. I will not lie I really struggled with this assignment but I did my best. In this assignment I made the calculations of a city's school district. I used the the web application Jupyter Notebook and the open-source framework Pandas to work on the tabular data of the many rows and columns. So I did my coding on the SSPyCitySchools.ipynb because I wanted to look at the PyCitySchools.ipynb data so I knew what my results should look like. 
